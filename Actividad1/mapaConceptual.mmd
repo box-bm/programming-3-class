@@ -1,0 +1,49 @@
+graph TD
+  subgraph Estructura_de_Datos[Estructura de datos]
+    A[Estructura de Datos]
+    C[Listas Enlazadas]
+    D[Pilas]
+    E[Colas]
+    F[["Las estructuras de datos sirven al momento de organizar
+     datos tengan un orden logico y mantenible. Logrando obtener
+     orden y mejoras de rendimiento en los multiples sistemas."]]
+  end
+
+  subgraph Pilas
+    G[Operaciones]
+    H[Push]
+    I[Pop]
+    J[Top]
+    K[["Las pilas son una forma de ordenar una estructura de datos
+     que por medio de un algoritmo que se basa en la premissa:
+     Ultimo en entrar, primero en salir.
+
+     Ordena una lista que va apilando cada entrada y resuelve una
+     a una y la primer entrada se resuelve si y solo si no entra
+     otro elemento a la pila."]]
+  end
+
+  subgraph Ejemplos_de_Aplicacion[Ejemplos]
+    L[["Historial de Navegación
+     en un Navegador Web"]]
+    M[["Llamadas a Funciones en
+    la Pila de una CPU"]]
+    N[["Gestión de Undo/Redo
+    en Editores de Texto"]]
+
+  end
+
+  A -->|Descripción| F
+  F -->|Contiene| C
+  F -->|Contiene| D
+  F -->|Contiene| E
+
+
+  K -->|Realiza| G
+  G -->|Realiza| H
+  G -->|Realiza| I
+  G -->|Realiza| J
+
+  D -->|Descripción| Pilas
+  D -->|Aplicado en| Ejemplos_de_Aplicacion
+
