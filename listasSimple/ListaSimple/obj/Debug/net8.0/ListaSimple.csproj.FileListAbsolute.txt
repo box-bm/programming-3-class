@@ -1,0 +1,15 @@
+/Users/bmanzo/Developer/programming3/listasSimple/ListaSimple/bin/Debug/net8.0/ListaSimple
+/Users/bmanzo/Developer/programming3/listasSimple/ListaSimple/bin/Debug/net8.0/ListaSimple.deps.json
+/Users/bmanzo/Developer/programming3/listasSimple/ListaSimple/bin/Debug/net8.0/ListaSimple.runtimeconfig.json
+/Users/bmanzo/Developer/programming3/listasSimple/ListaSimple/bin/Debug/net8.0/ListaSimple.dll
+/Users/bmanzo/Developer/programming3/listasSimple/ListaSimple/bin/Debug/net8.0/ListaSimple.pdb
+/Users/bmanzo/Developer/programming3/listasSimple/ListaSimple/obj/Debug/net8.0/ListaSimple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bmanzo/Developer/programming3/listasSimple/ListaSimple/obj/Debug/net8.0/ListaSimple.AssemblyInfoInputs.cache
+/Users/bmanzo/Developer/programming3/listasSimple/ListaSimple/obj/Debug/net8.0/ListaSimple.AssemblyInfo.cs
+/Users/bmanzo/Developer/programming3/listasSimple/ListaSimple/obj/Debug/net8.0/ListaSimple.csproj.CoreCompileInputs.cache
+/Users/bmanzo/Developer/programming3/listasSimple/ListaSimple/obj/Debug/net8.0/ListaSimple.sourcelink.json
+/Users/bmanzo/Developer/programming3/listasSimple/ListaSimple/obj/Debug/net8.0/ListaSimple.dll
+/Users/bmanzo/Developer/programming3/listasSimple/ListaSimple/obj/Debug/net8.0/refint/ListaSimple.dll
+/Users/bmanzo/Developer/programming3/listasSimple/ListaSimple/obj/Debug/net8.0/ListaSimple.pdb
+/Users/bmanzo/Developer/programming3/listasSimple/ListaSimple/obj/Debug/net8.0/ListaSimple.genruntimeconfig.cache
+/Users/bmanzo/Developer/programming3/listasSimple/ListaSimple/obj/Debug/net8.0/ref/ListaSimple.dll
