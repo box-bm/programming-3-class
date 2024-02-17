@@ -1,0 +1,15 @@
+/Users/bmanzo/Developer/programming3/Actividad_clase_3/Impresora/bin/Debug/net8.0/Impresora
+/Users/bmanzo/Developer/programming3/Actividad_clase_3/Impresora/bin/Debug/net8.0/Impresora.deps.json
+/Users/bmanzo/Developer/programming3/Actividad_clase_3/Impresora/bin/Debug/net8.0/Impresora.runtimeconfig.json
+/Users/bmanzo/Developer/programming3/Actividad_clase_3/Impresora/bin/Debug/net8.0/Impresora.dll
+/Users/bmanzo/Developer/programming3/Actividad_clase_3/Impresora/bin/Debug/net8.0/Impresora.pdb
+/Users/bmanzo/Developer/programming3/Actividad_clase_3/Impresora/obj/Debug/net8.0/Impresora.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bmanzo/Developer/programming3/Actividad_clase_3/Impresora/obj/Debug/net8.0/Impresora.AssemblyInfoInputs.cache
+/Users/bmanzo/Developer/programming3/Actividad_clase_3/Impresora/obj/Debug/net8.0/Impresora.AssemblyInfo.cs
+/Users/bmanzo/Developer/programming3/Actividad_clase_3/Impresora/obj/Debug/net8.0/Impresora.csproj.CoreCompileInputs.cache
+/Users/bmanzo/Developer/programming3/Actividad_clase_3/Impresora/obj/Debug/net8.0/Impresora.sourcelink.json
+/Users/bmanzo/Developer/programming3/Actividad_clase_3/Impresora/obj/Debug/net8.0/Impresora.dll
+/Users/bmanzo/Developer/programming3/Actividad_clase_3/Impresora/obj/Debug/net8.0/refint/Impresora.dll
+/Users/bmanzo/Developer/programming3/Actividad_clase_3/Impresora/obj/Debug/net8.0/Impresora.pdb
+/Users/bmanzo/Developer/programming3/Actividad_clase_3/Impresora/obj/Debug/net8.0/Impresora.genruntimeconfig.cache
+/Users/bmanzo/Developer/programming3/Actividad_clase_3/Impresora/obj/Debug/net8.0/ref/Impresora.dll

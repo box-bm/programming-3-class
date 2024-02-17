@@ -1,0 +1,15 @@
+/Users/bmanzo/Developer/programming3/Colas/Colas/bin/Debug/net8.0/Colas
+/Users/bmanzo/Developer/programming3/Colas/Colas/bin/Debug/net8.0/Colas.deps.json
+/Users/bmanzo/Developer/programming3/Colas/Colas/bin/Debug/net8.0/Colas.runtimeconfig.json
+/Users/bmanzo/Developer/programming3/Colas/Colas/bin/Debug/net8.0/Colas.dll
+/Users/bmanzo/Developer/programming3/Colas/Colas/bin/Debug/net8.0/Colas.pdb
+/Users/bmanzo/Developer/programming3/Colas/Colas/obj/Debug/net8.0/Colas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bmanzo/Developer/programming3/Colas/Colas/obj/Debug/net8.0/Colas.AssemblyInfoInputs.cache
+/Users/bmanzo/Developer/programming3/Colas/Colas/obj/Debug/net8.0/Colas.AssemblyInfo.cs
+/Users/bmanzo/Developer/programming3/Colas/Colas/obj/Debug/net8.0/Colas.csproj.CoreCompileInputs.cache
+/Users/bmanzo/Developer/programming3/Colas/Colas/obj/Debug/net8.0/Colas.sourcelink.json
+/Users/bmanzo/Developer/programming3/Colas/Colas/obj/Debug/net8.0/Colas.dll
+/Users/bmanzo/Developer/programming3/Colas/Colas/obj/Debug/net8.0/refint/Colas.dll
+/Users/bmanzo/Developer/programming3/Colas/Colas/obj/Debug/net8.0/Colas.pdb
+/Users/bmanzo/Developer/programming3/Colas/Colas/obj/Debug/net8.0/Colas.genruntimeconfig.cache
+/Users/bmanzo/Developer/programming3/Colas/Colas/obj/Debug/net8.0/ref/Colas.dll
